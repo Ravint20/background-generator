@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ravint20/background-generator/issues"
   },
-  "homepage": "https://github.com/Ravint20/background-generator#readme"
+  "homepage": "https://github.com/Ravint20/background-generator#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
 }
